@@ -1,0 +1,1 @@
+# Kibana plugin for Tigera styles

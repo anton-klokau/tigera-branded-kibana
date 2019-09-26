@@ -1,0 +1,10 @@
+
+{
+  "name": "tigera_style",
+  "version": "0.1.0",
+  "main": "index.js",
+  "kibana": {
+    "version": "7.3.2"
+  },
+  "website": "https://www.tigera.io/"
+}
